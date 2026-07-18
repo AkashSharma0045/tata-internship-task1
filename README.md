@@ -22,5 +22,4 @@ To perform data quality assessment and identify issues in the dataset such as:
 
 ---
 
-## 💬 Prompt Used in GNI
 
